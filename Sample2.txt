@@ -1,2 +1,6 @@
 Hello GitHub
+<<<<<<< HEAD
 Welcome
+=======
+a = a + b
+>>>>>>> branch2

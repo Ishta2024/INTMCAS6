@@ -1,2 +1,6 @@
 Amal Jyothi College Of Engineering
+<<<<<<< HEAD
 Hello Welcome
+=======
+a = a + b
+>>>>>>> branch2
